@@ -7,4 +7,11 @@ You can add `-F` for file structure, `-a` for all hidden items, `-l` for long li
 ```sh
 ls -lahF
 ```
+### What `cd` does?
 
+
+> It changes to next `directory`.
+
+```sh
+cd <path_to_folder>
+```
